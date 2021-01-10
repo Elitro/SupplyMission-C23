@@ -1,2 +1,1 @@
-# SupplyMission-C23
-PROJECT
+# SupplyMission
